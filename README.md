@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
     
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathlover27@gmail.com)](mailto:mathlover27@gmail.com)
-[![Tech-Blog](https://img.shields.io/badge/Vimeo-20c997?style=flat-square&logo=Gmail&logoColor=white&link="https://velog.io/@malleus35")](https://velog.io/@malleus35)
+[![Tech-Blog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link="https://velog.io/@malleus35")](https://velog.io/@malleus35)
 
 ## About me
 
